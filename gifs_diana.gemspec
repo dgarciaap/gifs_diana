@@ -7,8 +7,8 @@ Gem::Specification.new do |spec|
   spec.email         = ["dgarcia24@ucol.mx"]
 
   spec.summary       = %q{Gem for getting gifs from animatedgif.me}
-  spec.description   = %q{description}
-  spec.homepage      = "https://github.com/dgarciaap"
+  spec.description   = %q{Gem for getting random gifs}
+  spec.homepage      = "https://github.com/dgarciaap/gifs_diana"
   #spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
 
   #spec.metadata["allowed_push_host"] = "TODO: Set to 'http://mygemserver.com'"
