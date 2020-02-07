@@ -33,7 +33,7 @@ module GifsDiana
   end
 
   #find a random kitty
-  def self.random(tag)
+  def self.find_random(tag)
 	  gifs_url = find_by_tag(tag)
 	  generate_txt(gifs_url)
   end
