@@ -27,5 +27,5 @@ Gem::Specification.new do |spec|
   spec.require_paths = ["lib"]
 
   #Add dependency
-  spec.add_dependency "httparty", "0.17.3"
+  spec.add_dependency "httparty", "0.21.0"
 end
